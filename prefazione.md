@@ -15,19 +15,18 @@ Due anni più tardi, dopo aver creato un certo numero di piccole startup, ho dec
 Questo libro è prevalentemente inteso per i programmatori. Se sai usare un linguaggio di programmazione, questo libro ti insegnerà come funzionano le monete crittografiche, come usarle e come sviluppare software che lavori con esse. I primi capitoli sono adatti anche come introduzione approfondita per Bitcoin per i non programmatori e per coloro che cercano di capire il funzionamento interno di Bitcoin e delle criptomonete.  
 
 ## Convenzioni usate in questo libro
-Le seguenti convenzioni tipografiche sono usate in questo libro:
-*Italic*
-Indica nuovi termini, URLs, indirizzi email, filename, e estensioni.
-_Larghezza costante_
+Le seguenti convenzioni tipografiche sono usate in questo libro:  
+*Italic*  
+Indica nuovi termini, URLs, indirizzi email, filename, e estensioni.  
+_Larghezza costante_  
 Usata per listati di programmi, come per paragrafi che si riferiscono a elementi di programmi come
-nomi di funzioni o variabili, database, tipi di dati, variabili d’ambiente, istruzioni e parole chiave.
-__Larghezza costante in grassetto__
-Mostra comandi o altro testo che dovrebbe essere digitato letteralmente dall’utente.
-***Larghezza costante in corsivo***
+nomi di funzioni o variabili, database, tipi di dati, variabili d’ambiente, istruzioni e parole chiave.  
+__Larghezza costante in grassetto__  
+Mostra comandi o altro testo che dovrebbe essere digitato letteralmente dall’utente.  
+***Larghezza costante in corsivo***  
 Mostra testo che dovrebbe essere sostituito con valori definiti dall’utente o con valori determinati
-dal contesto.
+dal contesto.  
 __TIP__ L’icona sta a significare un tip, un suggerimento o una nota generale.
-Questa icona indica un avvertimento o cautela.
 
 ## Esempi di Codice
 Gli esempi sono illustrati in Python, C++, e usando la riga di comando di un sistema operativo Unix-like come Linux o Mac OS X. Tutti i frammenti di codice sono disponibili nel repository GitHub nella directory code del repo principale. Fai un fork del codice del libro, prova gli esempi di codice o
